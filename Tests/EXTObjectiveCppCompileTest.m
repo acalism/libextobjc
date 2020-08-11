@@ -1,5 +1,5 @@
 //
-//  EXTObjectiveCppCompileTest.mm
+//  EXTObjectiveCppCompileTest.m
 //  extobjc
 //
 //  Created by Igor Kashkuta on 2013-04-01.
